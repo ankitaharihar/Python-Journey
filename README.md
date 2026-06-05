@@ -1,1 +1,1 @@
-# AI-Journey
+# Python Journey
