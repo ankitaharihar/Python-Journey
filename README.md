@@ -1,2 +1,2 @@
 # Python Journey
-first program 
+
